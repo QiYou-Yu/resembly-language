@@ -1,0 +1,7 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	AGAIN                   3000
+//	ASCII                   300D
+//	GO                      3008
+//	LOOP                    3005
+//	TERM                    300C
